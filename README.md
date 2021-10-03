@@ -16,7 +16,7 @@ min_samples_split=5
 
 We can also see that the best metrics from our analysis at determining if the wells were good are
 
-![alt test](graphs/top selectors.PNG)
+![alt test](https://github.com/criolloprimero/Tanzanian-water-point-classification/blob/main/graphs/top%20selectors.PNG)
 
 -GPS height
 -is their enough water, quantity
