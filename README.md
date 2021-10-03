@@ -16,6 +16,8 @@ min_samples_split=5
 
 We can also see that the best metrics from our analysis at determining if the wells were good are
 
+![alt test](graphs/top selectors.PNG)
+
 -GPS height
 -is their enough water, quantity
 -the year built
